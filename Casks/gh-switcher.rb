@@ -13,7 +13,7 @@ cask "gh-switcher" do
   end
 
   depends_on formula: "gh"
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "GHSwitcher.app"
 
