@@ -7,6 +7,7 @@ Homebrew tap for apps by [@willianrattis](https://github.com/willianrattis).
 Switch your GitHub CLI account from the macOS menu bar.
 
 ```bash
+brew trust willianrattis/tap
 brew install --cask willianrattis/tap/gh-switcher
 ```
 
