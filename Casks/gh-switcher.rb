@@ -1,6 +1,6 @@
 cask "gh-switcher" do
-  version "1.0.0"
-  sha256 "6dcf38f1efe3db5f208b0bb680d73967278d78c8d9c21e211415dc99e89edbf1"
+  version "1.0.1"
+  sha256 "d4c8e8965acd318cf0707c1b3906711082b770af15b6f1556a6b74de08ad9a22"
 
   url "https://github.com/willianrattis/gh-switcher/releases/download/v#{version}/GHSwitcher-#{version}.zip"
   name "GH Switcher"
